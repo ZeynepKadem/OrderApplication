@@ -1,11 +1,8 @@
+#Order application - Content
 
-# Sipariş uygulaması - İçerik
-
-### Bir müşterinin, sipariş oluşturup, faturalarını kaydedebildiği ve görüntüleyebildiği bir uygulama yazın. 
-
-## Gereksinimler
-
-### Final, static, overload, override, constructor, kalıtım, polimorfizim, encapsulation, List, Set, Map kavramlarını kullanılmalıdır. 
-### Sisteme eklemeler yapabilirsiniz.
-### Main method üzerinde çalışması yeterlidir. 
-### SOLID prensiplerine uygun olarak yazmaya çalışınız. 
+### Write an application where a customer can create orders, save and view their invoices.
+##### Requirements
+##### The concepts of final, static, overload, override, constructor, inheritance, polymorphism, encapsulation, List, Set, Map should be used.
+##### You can add to the system.
+##### It is enough to work on the main method.
+##### Try to write in accordance with SOLID principles.
